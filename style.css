@@ -1,0 +1,90 @@
+html #background{
+    color: darkblue;
+}
+header{
+    background-color: #3a3a3a;
+    text-align: center;
+    padding: 10px;
+    margin: auto 7% auto 7%;
+}
+
+
+body {
+    background-image: url("background_pi.svg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 40px;
+    background-color: black;
+    scroll-behavior: smooth;
+    
+}
+
+#descrp{
+    font-family: 'Courier New';
+    font-size: 24px;
+    margin: auto auto auto auto;
+    background-color: #dac1a3;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+
+div#hey{
+    margin: -2px 20% 30px 20%;
+    background-color: #3a3a3a;
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+    padding: 2px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+img{
+    position: relative;
+    border-radius: 10px;
+}
+
+table{
+    margin: auto 10% auto 10%;
+    display: table;
+    text-align: left;
+    vertical-align: middle;
+}
+
+tbody{
+    vertical-align: middle;
+}
+
+.descrip_table{
+    width: 70%;
+}
+
+.business{
+    font-size: large;
+    background-color: #d3ba9b;
+    margin: 20px 10% 30px 10%;
+    text-align: right;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.email{
+    margin: auto 20% auto 30%;
+}
+
+.profile_div{
+    background-color: #cab397;
+    padding: 2px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
