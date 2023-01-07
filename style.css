@@ -71,11 +71,15 @@ tbody{
     padding: 5px;
 }
 
-.Artworks{
+.Artwork{
     background-color: pink;
     margin: auto 20% auto 20%;
     padding: 5px
-
+}
+.instagram-media{
+    margin: 20px 10% 30px 10%;
+}
+    
 .email{
     margin: auto 20% auto 30%;
 }
