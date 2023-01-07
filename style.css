@@ -71,6 +71,11 @@ tbody{
     padding: 5px;
 }
 
+.Artworks{
+    background-color: pink;
+    margin: auto 20% auto 20%;
+    padding: 5px
+
 .email{
     margin: auto 20% auto 30%;
 }
